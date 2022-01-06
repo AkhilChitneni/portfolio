@@ -13,9 +13,6 @@ const Footer = () => (
         <a href="https://github.com/AkhilChitneni" target="_blank" className="google-plus"><i className="bx bxl-github"></i></a>
         <a href="https://www.linkedin.com/in/akhil-chitneni-65a221145" target="_blank" className="linkedin"><i className="bx bxl-linkedin"></i></a>
       </div>
-      <div className="copyright">
-        &copy; Copyright <strong><span>Akhil Chitneni</span></strong>. All Rights Reserved
-      </div>
     </div>
   </footer>
 )

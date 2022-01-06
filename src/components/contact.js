@@ -14,21 +14,21 @@ const contact = () => {
           <div className="col-lg-4">
             <div className="info">
               <div className="address">
-              <i class='bx bx-current-location' ></i>
+              <a href="https://www.google.com/maps/place/Cincinnati,+OH/@39.1365225,-84.680487,11z/data=!3m1!4b1!4m5!3m4!1s0x884051b1de3821f9:0x69fb7e8be4c09317!8m2!3d39.1031182!4d-84.5120196" target='blank'><i class='bx bx-current-location' ></i></a>
                 <h4>Location:</h4>
-                <p>Hyderabad, Telangana, India</p>
+                <p>Cincinnati, Ohio, United States</p>
               </div>
 
               <div className="email">
-              <i class='bx bx-mail-send' ></i>
+              <a href="mailto: akhilchitneni@gmail.com"><i class='bx bx-mail-send' ></i></a>
                 <h4>Email:</h4>
                 <p>akhilchitneni@gmail.com</p>
               </div>
 
               <div className="phone">
-                <i className="bx bxs-phone"></i>
+                <a href="tel:5134353494"><i className="bx bxs-phone"></i></a>
                 <h4>Call:</h4>
-                <p>+91 98858 10277</p>
+                <p>+1 513-435-3494</p>
               </div>
 
             </div>

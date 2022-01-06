@@ -1,6 +1,6 @@
 import React from 'react'
 
-import profile from '../images/profile.jpg'
+import profile from '../images/profile1.jpeg'
 
 const about = () => {
     return (
@@ -24,7 +24,7 @@ const about = () => {
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>15 December 1997</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span><a href="http://akhilchitneni.netlify.app" target="_blank">http://akhilchitneni.netlify.app</a></span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+91 98858 10277</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>City:</strong> <span>Hyderabad, Telangana</span></li>
                 </ul>
